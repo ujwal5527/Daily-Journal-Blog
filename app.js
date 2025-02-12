@@ -34,7 +34,7 @@ app.set("view engine", "ejs");
 //     } else {
 //       res.render("home", {
 //         startingContent: homeStartingContent,
-//         newVariable: pust,
+//         newVar: pust,
 //       });
 //     }
 //   });
